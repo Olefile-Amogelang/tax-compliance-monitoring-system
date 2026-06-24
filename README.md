@@ -16,7 +16,7 @@ This project simulates a tax compliance monitoring system used to identify under
 - SQLite
 - Streamlit
 
-## Use Case
+## Use 
 This system demonstrates how revenue authorities can leverage data engineering and analytics to monitor compliance, detect anomalies, and improve decision-making.
 
 ## How to Run
